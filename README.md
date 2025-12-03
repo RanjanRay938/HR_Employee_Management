@@ -31,22 +31,8 @@ If no data file is found, it creates demo employee records and saves them to `em
 
 ### Example Output
 
-```text
-Employee Salaries (examples)
-----------------------------------------
-ID: FT001 | Name: Alice kumar | Role: Full-Time
-Monthly pay (no bonus): 80000
-Yearly lump (3 months + bonus): 252000.0
-----------------------------------------
-ID: PT101 | Name: Bikash Singh | Role: Part-Time
-Pay for 90 hours (with possible bonus): 4590.0
-----------------------------------------
-ID: IN900 | Name: Charu Rai | Role: Intern
-Stipend: 15000
-Stipend with completion allowance: 16500.0
+<img width="1032" height="618" alt="image" src="https://github.com/user-attachments/assets/4642880f-f8aa-4104-a79f-fb77372c66cd" />
 
-Saved employee records to employees.csv
-```
 
 ## File Structure
 
